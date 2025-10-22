@@ -87,7 +87,7 @@ SEVEN_Z_LEVEL = 7           # (0–9) Compresión LZMA2
 En consola (PowerShell o CMD):
 
 ```bash
-python backup_script.py
+python 01_SSD_to_zip.py
 ```
 
 ### 3️⃣ Resultado esperado
