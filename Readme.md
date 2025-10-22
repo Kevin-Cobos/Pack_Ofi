@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🧠 Copia de Seguridad Eficiente (ZIP preferente con 7-Zip; fallback Python ZIP)
 
