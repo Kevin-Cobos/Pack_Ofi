@@ -1,0 +1,9 @@
+# --- Dependencias principales ---
+pypdf>=4.0.0
+
+# --- Librerías estándar de Python (no requieren instalación) ---
+# os
+# tkinter
+
+# --- Dependencias opcionales (para mensajes de error legibles y compatibilidad multiplataforma) ---
+PyInstaller>=6.0.0
